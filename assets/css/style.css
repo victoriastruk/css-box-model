@@ -13,7 +13,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    padding-top: 40vh;
+    padding: 40vh 5vh;
 }
 
 .title {
@@ -30,7 +30,7 @@
 }
 
 .link-more:hover,
-.text-white {
+p:nth-child(odd) {
     background-color: #926239;
     color: #fff;
 }
